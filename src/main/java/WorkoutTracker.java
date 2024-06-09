@@ -1,5 +1,3 @@
-package org.example;
-
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -8,6 +6,7 @@ import java.util.*;
 import java.io.File;
 
 public class WorkoutTracker {
+
 
 
     private final ArrayList<String> lifts;

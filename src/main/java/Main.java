@@ -1,5 +1,3 @@
-package org.example;
-
 import java.io.IOException;
 import java.util.HashMap;
 
@@ -7,7 +5,6 @@ import java.util.HashMap;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) throws IOException {
-        //Git change
         System.out.println("Trey's Workout Tracker Starting");
 
         WorkoutTracker tracker = new WorkoutTracker();
